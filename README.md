@@ -1,2 +1,2 @@
 # Multi-language-forum
-Posts in the languages that you are comfortable with
+Forum with the ability to work in my multiple languages
